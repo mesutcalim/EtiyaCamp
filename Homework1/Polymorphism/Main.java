@@ -1,6 +1,5 @@
 package Homework1.Polymorphism;
 
-import Homework3.Odev2.core.logging.Logger;
 
 public class Main {
     public static void main(String[] args) {

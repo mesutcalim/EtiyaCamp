@@ -1,6 +1,6 @@
 package Homework1.Inheritance.InheritanceAnlamak;
 
-import Homework2.ClasslarlaCalisma.CustomerManager;
+
 
 public class Main {
     public static void main(String[] args) {
