@@ -35,7 +35,7 @@ _İsminde 'A' ve 'J' bulunan ürünlerin ``category_id``'ye göre sıralanması_
 ![Order By](https://github.com/mesutcalim/EtiyaCamp/blob/master/Sql_Homework(28.11.2022)/6.jpeg)
 ---
 #### 7.Group By (Örnek 1)
-_İsminde 'A' ve 'J' bulunan ürünlerin ``product_name``'ye göre gruplanması, ``product_name``'ye göre sıralanması ve aynı isme sahip ürünlerin sayısı_
+_İsminde 'A' ve 'P' bulunan ürünlerin ``product_name``'ye göre gruplanması, ``product_name``'ye göre sıralanması ve aynı isme sahip ürünlerin sayısı_
 
 ![Group By](https://github.com/mesutcalim/EtiyaCamp/blob/master/Sql_Homework(28.11.2022)/7.jpeg)
 ---
