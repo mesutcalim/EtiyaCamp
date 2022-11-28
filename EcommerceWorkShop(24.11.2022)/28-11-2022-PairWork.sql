@@ -53,4 +53,11 @@ where country.country_name in ('Fransa', 'Türkiye', 'Arjantin')
 Select * from district 
 left join city on district.id = city.district_id
 
+--Color id'si 7 olan color'ı sil
+Delete from color where id= 7;
 
+--Hangi kargo şirketi kaç adet sipariş aldığını listeleyebilir miyiz?
+SELECT shipper.company_name, COUNT(orders.shipper_id) AS "SiparisSayısı"
+FROM orders
+LEFT JOIN shipper ON orders.shipper_id = shipper.id
+GROUP BY company_name;
